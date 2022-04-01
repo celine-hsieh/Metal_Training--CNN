@@ -8,4 +8,9 @@ Six kinds of typical surface defects of the hot-rolled steel strip are collected
 
 ## Result
 
-![image](https://raw.githubusercontent.com/celinehsieh68/Metal_Training-CNN/main/result.PNG?token=GHSAT0AAAAAABSOURW66XRS65YW4DELIOAYYSGZWDQ)
+![image](https://github.com/celinehsieh68/Metal_Training-CNN/blob/main/result.PNG?raw=true)
+
+## References
+
+SimpsonRecognition  https://github.com/alexattia/SimpsonRecognition
+The Simpsons characters recognition and detection using Keras (Part 1) https://medium.com/alex-attia-blog/the-simpsons-character-recognition-using-keras-d8e1796eae36
