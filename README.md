@@ -1,5 +1,5 @@
 # Metal_Training-CNN
-Training a Convolutional Neural Network to recognize metals surface defects using Keras (TensorFlow backend).
+Training a Convolutional Neural Network to recognize metals surface defects using Keras (TensorFlow backend) on [colab.](https://colab.research.google.com/drive/1sAI-tyUE9kzdbFtJKEoqaaEpU4ZjsT7x?usp=sharing)
 
 ## Database
 [NEU Surface Defect Database](https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database)
